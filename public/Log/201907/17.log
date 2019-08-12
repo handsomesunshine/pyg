@@ -1,0 +1,31 @@
+---------------------------------------------------------------
+[ 2019-07-17T17:34:52+08:00 ] 127.0.0.1 GET /adsasdasdasddas
+[ error ] module not exists:adsasdasdasddas
+---------------------------------------------------------------
+[ 2019-07-17T17:37:06+08:00 ] 127.0.0.1 GET /adsasdasdasddas
+[ info ] adminapi.pyg.com/adsasdasdasddas [运行时间：0.029433s][吞吐率：33.98req/s] [内存消耗：1,509.41kb] [文件加载：33]
+[ info ] [ LANG ] G:\wamp64\www\WWW\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adsasdasdasddas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'fdd5f73e-3e71-4caa-ba2b-109655fe668b',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'accept' => '*/*',
+  'host' => 'adminapi.pyg.com',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  '/adsasdasdasddas' => '',
+)
+[ info ] [ LOG ] INIT file
+[ error ] module not exists:adsasdasdasddas
